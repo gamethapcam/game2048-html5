@@ -6,6 +6,7 @@ i:cooper-32-white.png:37757:image/png
 i:txtHowToPlay.png:118631:image/png
 i:txtAbout.png:109340:image/png
 t:2048.pack:3302:application/unknown
+b:2048.png.zip:98426:application/zip
 i:stagebackground.png:478:image/png
 i:cooper-40-white.png:51711:image/png
 i:icon-128.png:1222:image/png
